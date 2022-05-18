@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @cchiera-od
+- 👀 I’m interested in Web Development ...
+- 🌱 I’m currently learning React...
+- 📫 How to reach me cchiera@overdrive.com ...
+
+<!---
+cchiera-od/cchiera-od is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
